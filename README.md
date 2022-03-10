@@ -10,7 +10,7 @@ We collected information on all physicians who provide psychological care in Ukr
 В Германии базовые медицинские услуги для беженцев бесплатны, но пациенты должны получить ваучер на лечение от местных властей, где они зарегистрировались как беженцы (в основном покрывается неотложная и срочная помощь, местные власти должны одобрить психотерапию или консультацию). Если возможно, свяжитесь с местными властями до посещения врача. Подробное описание того, как получить медицинскую помощь, предоставлено Министерством здравоохранения Германии [здесь](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Gesundheit/Broschueren/Ratgeber_Asylsuchende_EN_web.pdf) . Кроме того, вы можете получить помощь в одном из психосоциальных центров, организованных при [BAfF](https://www.baff-zentren.org/english/) . Скорая помощь также оказывается во многих больницах.  
 
 
-## Informationen für Ärzt``__*__``innen und Psychotherapeutinnen/Psychotherapeuten
+## Informationen für Ärzt´*´innen und Psychotherapeutinnen/Psychotherapeuten
 Die Daten sind aus den öffentlichen Angaben aus den Seiten der jeweiligen Kassenärztlichen Vereinigungen zusammengestellt. Wenn Sie möchten, dass Ihre Praxis von der Karte entfernt wird, oder aber auch wenn wir Ihre Praxis zur Karte hinzufügen sollen, füllen Sie bitte dieses [Formular](https://forms.gle/86xUCctrSW3W2R929) aus oder schreiben eine E-Mail an ukrainian.psy.map@zew.de.
 
 
