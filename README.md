@@ -4,7 +4,7 @@ Additionally, our overiew includes the 47 Psychosocial Centres for Refugees and 
 
 <a href="https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing"><img src="dhttps://github.com/simonreif/ukrainian_psy_DE/blob/main/map_screenshot.png" alt="map" width="200"/></a>
 
-<iframe src="https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+{google_map}https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing{/google_map}
 
 ## Доступ до медичного обслуговування
 На цій мапі мі зібрали інформацію про всіх лікарів, які надають психологічну допомогу українською чи російською мовами. У Німеччині базові медичні послуги для біженців безкоштовні, але пацієнти мають отримати ваучер на лікування від місцевої влади у регіоні, де їх було зареєстровано як біженців (здебільшого ¬¬покривається невідкладна та термінова допомога, психотерапію чи психологічну консультацію має схвалити місцева влада). Якщо це можливо, зв'яжіться з місцевою владою (Sozialämter) до відвідання лікаря. Детальний опис процедури отримання медичної допомоги, наданий Міністерством охорони здоров'я Німеччини, ви можете знайти [тут](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Gesundheit/Broschueren/Ratgeber_Asylsuchende_EN_web.pdf). Крім того, ви можете отримати допомогу в одному із психосоціальних центрів, організованих при [BAfF](https://www.baff-zentren.org/english/). Швидка допомога також надається у багатьох лікарнях.
