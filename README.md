@@ -22,4 +22,4 @@ Die Daten sind aus den öffentlichen Angaben aus den Seiten der jeweiligen Kasse
 
 
 ## Team
-Das Projekt wird durchgeführt von der Projektgruppe Gesundheitsmärkte und Gesundheitspolitik am [ZEW Mannheim](zew.de). Beteiligt sind Theresa Bolz, Yasemin Karamik, Simon Reif, Hannah Rosenbaum und Sabrina Schubert. 
+Das Projekt wird durchgeführt von der Projektgruppe Gesundheitsmärkte und Gesundheitspolitik am [ZEW Mannheim](www.zew.de). Beteiligt sind Theresa Bolz, Yasemin Karamik, Simon Reif, Hannah Rosenbaum und Sabrina Schubert. 
