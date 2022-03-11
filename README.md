@@ -5,7 +5,7 @@ Additionally, our overiew includes the 47 Psychosocial Centres for Refugees and 
 
 [![name](https://github.com/simonreif/ukrainian_psy_DE/blob/main/map_screenshot.png)](https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing)
 
-<img src="https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing" data-canonical-src="https://github.com/simonreif/ukrainian_psy_DE/blob/main/map_screenshot.png" width="200" height="400" />
+<img src="https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing" data-canonical-src="https://github.com/simonreif/ukrainian_psy_DE/blob/main/map_screenshot.png" width="400" height="400" />
 
 
 ## Доступ до медичного обслуговування
