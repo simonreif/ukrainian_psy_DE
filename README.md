@@ -3,8 +3,9 @@ In this project we provide an easy overview on all registered ambulatory psychot
 Additionally, our overiew includes the 47 Psychosocial Centres for Refugees and Victims of Torture in Germany. These centers may not necessarily have Ukrainian & Russian speaking psychotherapists], but work with translaters and provide specialised care. We do not stand in contact with the centers or the psychotherapists.
 
 
-[![name](https://github.com/simonreif/ukrainian_psy_DE/blob/main/map_screenshot.png| width=100)](https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing)
+[![name](https://github.com/simonreif/ukrainian_psy_DE/blob/main/map_screenshot.png)](https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing)
 
+<img src="https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing" data-canonical-src="https://github.com/simonreif/ukrainian_psy_DE/blob/main/map_screenshot.png" width="200" height="400" />
 
 
 ## Доступ до медичного обслуговування
