@@ -2,9 +2,8 @@
 In this project we provide an easy overview on all registered ambulatory psychotherapists that report to speak either Ukrainian or Russian. The raw data comes from the Associations of Statutory Health Insurance Physicians. The visialization on Google Maps is [here](https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing). The raw data is in this repository [here](https://github.com/simonreif/ukrainian_psy_DE/blob/main/Liste_Therapeuten.xlsx). If you are a psychotherapists and either want to be deleted or added to the map, fill this [form](https://forms.gle/86xUCctrSW3W2R929). If you find any issues, you can write an E-mail to ukrainian.psy.map@zew.de or cooperate via GitHub.
 Additionally, our overiew includes the 47 Psychosocial Centres for Refugees and Victims of Torture in Germany. These centers may not necessarily have Ukrainian & Russian speaking psychotherapists], but work with translaters and provide specialised care. We do not stand in contact with the centers or the psychotherapists.
 
-<a href="https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8" target="_blank"><img src="dhttps://github.com/simonreif/ukrainian_psy_DE/blob/main/map_screenshot.png" width="200"/></a>
 
-[![name](https://github.com/simonreif/ukrainian_psy_DE/blob/main/map_screenshot.png)](https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing)
+[![name](https://github.com/simonreif/ukrainian_psy_DE/blob/main/map_screenshot.png| width=100))](https://www.google.com/maps/d/edit?mid=1rskrjh_rV8h3ESh8YFh9HFMvQGd2a-N8&usp=sharing)
 
 
 
